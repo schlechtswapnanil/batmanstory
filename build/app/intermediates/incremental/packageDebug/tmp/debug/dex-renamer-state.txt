@@ -1,0 +1,4 @@
+#Wed May 04 10:42:41 IST 2022
+base.0=C\:\\Users\\Neil\\Documents\\App Brewery Flutter Projects\\destini-challenge-starting\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
